@@ -1,0 +1,73 @@
+D:\dotnet\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.exe
+D:\dotnet\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.deps.json
+D:\dotnet\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.json
+D:\dotnet\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.dev.json
+D:\dotnet\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.dll
+D:\dotnet\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.pdb
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csprojAssemblyReference.cache
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\App.g.cs
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza_MarkupCompile.cache
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza_MarkupCompile.lref
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.g.resources
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.CoreCompileInputs.cache
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfoInputs.cache
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfo.cs
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.dll
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.pdb
+D:\dotnet\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.genruntimeconfig.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\bin\Debug\netcoreapp3.1\pizza.exe
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\bin\Debug\netcoreapp3.1\pizza.deps.json
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.json
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.dev.json
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\bin\Debug\netcoreapp3.1\pizza.dll
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\bin\Debug\netcoreapp3.1\pizza.pdb
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.csprojAssemblyReference.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\App.g.cs
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza_MarkupCompile.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\MainWindow.baml
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.g.resources
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.CoreCompileInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfoInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfo.cs
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.dll
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.pdb
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system-master\pizza\obj\Debug\netcoreapp3.1\pizza.genruntimeconfig.cache
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.exe
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.deps.json
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.json
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.dev.json
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.dll
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\bin\Debug\netcoreapp3.1\pizza.pdb
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csprojAssemblyReference.cache
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\MainWindow.baml
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\App.g.cs
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza_MarkupCompile.cache
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.g.resources
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.CoreCompileInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfoInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfo.cs
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.dll
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.pdb
+B:\AAA Dokumenty\6 semestr\NET\pizza\pizza\obj\Debug\netcoreapp3.1\pizza.genruntimeconfig.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\bin\Debug\netcoreapp3.1\pizza.exe
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\bin\Debug\netcoreapp3.1\pizza.deps.json
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.json
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\bin\Debug\netcoreapp3.1\pizza.runtimeconfig.dev.json
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\bin\Debug\netcoreapp3.1\pizza.dll
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\bin\Debug\netcoreapp3.1\pizza.pdb
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.csprojAssemblyReference.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\MainWindow.baml
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\App.g.cs
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza_MarkupCompile.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.g.resources
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.csproj.CoreCompileInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfoInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.AssemblyInfo.cs
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.dll
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.pdb
+B:\AAA Dokumenty\6 semestr\NET\Simple-pizza-order-system\pizza\obj\Debug\netcoreapp3.1\pizza.genruntimeconfig.cache

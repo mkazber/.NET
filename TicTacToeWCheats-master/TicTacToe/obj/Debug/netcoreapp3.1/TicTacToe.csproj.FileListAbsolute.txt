@@ -1,0 +1,38 @@
+D:\dotnet\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\dotnet\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\dotnet\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\dotnet\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\dotnet\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\dotnet\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\dotnet\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+B:\AAA Dokumenty\6 semestr\NET\TicTacToeWCheats-master\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
