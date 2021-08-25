@@ -1,0 +1,77 @@
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.exe
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.deps.json
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.json
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.dev.json
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.dll
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csprojAssemblyReference.cache
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\App.g.cs
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.cache
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.lref
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.g.resources
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csproj.CoreCompileInputs.cache
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfoInputs.cache
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfo.cs
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.dll
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+D:\dotnet\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.genruntimeconfig.cache
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csprojAssemblyReference.cache
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.cache
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.lref
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.dll
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csproj.ResolveComReference.cache
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.exe
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.deps.json
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.json
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.dev.json
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.dll
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.g.resources
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfoInputs.cache
+C:\Users\vatci\Desktop\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfo.cs
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.exe
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.deps.json
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.json
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.dev.json
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.dll
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csprojAssemblyReference.cache
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csproj.ResolveComReference.cache
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.cache
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.lref
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.g.resources
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csproj.CoreCompileInputs.cache
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfoInputs.cache
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfo.cs
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.dll
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+C:\Users\macki\Desktop\blablabla\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.genruntimeconfig.cache
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.exe
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.deps.json
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.json
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.runtimeconfig.dev.json
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.dll
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\bin\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csprojAssemblyReference.cache
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csproj.ResolveComReference.cache
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.cache
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy_MarkupCompile.lref
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.g.resources
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.csproj.CoreCompileInputs.cache
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfoInputs.cache
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.AssemblyInfo.cs
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.dll
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.pdb
+E:\Dokumenty\6 semestr\NET\edytor_tekstowy\edytor_tekstowy\obj\Debug\netcoreapp3.1\edytor_tekstowy.genruntimeconfig.cache
