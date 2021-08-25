@@ -1,0 +1,19 @@
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\bin\Debug\netcoreapp3.1\3d wpf.exe
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\bin\Debug\netcoreapp3.1\3d wpf.deps.json
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\bin\Debug\netcoreapp3.1\3d wpf.runtimeconfig.json
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\bin\Debug\netcoreapp3.1\3d wpf.runtimeconfig.dev.json
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\bin\Debug\netcoreapp3.1\3d wpf.dll
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\bin\Debug\netcoreapp3.1\3d wpf.pdb
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.csprojAssemblyReference.cache
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf_MarkupCompile.cache
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf_MarkupCompile.lref
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.g.resources
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.csproj.CoreCompileInputs.cache
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.AssemblyInfoInputs.cache
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.AssemblyInfo.cs
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.dll
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.pdb
+C:\Users\kazbe\source\repos\3d wpf\3d wpf\obj\Debug\netcoreapp3.1\3d wpf.genruntimeconfig.cache
